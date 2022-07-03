@@ -5,9 +5,6 @@
   "main": "index.js",
   "author": "paulpeng",
   "license": "MIT",
-  "engines": {
-    "node": "16.15.1"
-  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
